@@ -18,6 +18,6 @@ function processAges(ages) {
   return { doubledAges, adults, ageStrings };
 }
 
-processAges([25, 18, 12, 16, 40]);
+
 
 module.exports = processAges;
